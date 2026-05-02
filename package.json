@@ -1,5 +1,5 @@
 {
-  "name": "vidgrab-pro",
+  "name": "vidgrab-api",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "yt-dlp-wrap": "^1.2.3",
+    "yt-dlp-wrap": "latest", 
     "firebase-admin": "^11.5.0"
   }
 }
