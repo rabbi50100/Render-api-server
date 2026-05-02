@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vidgrab-pro",
+  "private_key_id": "056e87edad5989d8e28da0a704b3b3f3ba146f1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2I/DACf53wI1S\nIVz8ZjsUgbLFKM76dyhAQKsjXXkx/crJiAGnrv93EX6IlWNc1wyweR/Saq88A7Ns\n/a4lCvbRh0swpj1j1nvVezjcatCHo+PnjrQnubwbmyFMYpQ+QvD3EJtuidWIhXCK\n6MJMqzcrIEcw/lSOJxfdL/2G7GMh2kSm5duI6I2igTL15bb7QDEb0uRemyBvSihn\n0xUHh3e8uuwE/eajDet0eXdfCnRac+y3LJtv9vGgOcz4Kos2jlpVHqPTLbd64M6i\nwesy/TiZx6awOo2CvD0hk1idez7bnpO+znHjvC3nwSiSezeLJ8ReAhyl7n0lptgz\n1GGFm0LXAgMBAAECggEALVcBBSz3tWOvSjSX6xSfvFkU4VNpQpwK3wO6FlGca79b\njZNXpiA/46ntL57QXzoBJKTiMQTxniTls0nq4bm6+ymMpA2d1o57wQatfuDwC/PW\nNbwmSIVJuC2DunoHoQAU78uohXm2OAfPniSWyXMNhqTAVAfbkI9Wt27M05tgifpZ\n6PAwF4fCIbjXwwCGTUZvaRT67rhQzPp191lqxk90K589vugoO7ZJk6+FiVQJj3kD\n1LI9Q4AEa0N/YxDTHbkPyVO/lYTOaG5muG/5kwKWLtjnIG732EJ0U2L4qpl/V1gT\nkqkYnOzDb4BGjTLHkYIzDsdTjJ6CrvwvmImHovPJ0QKBgQDgwden4zWHD6b8WNHH\n00aK02GwhIGUs2lZID08xeGTmNMmyRDmlcOkBfSHJH1Qlu6CXX0yH9B1ogmTudUO\nes5WHYGkXnNeOrINWJyhVuaxzaVjzP/nXJWEPErV5+KMtx4FdoIiM8ZULC28Demk\n34C5M7K16uf0dYMoxe1GqqvjewKBgQDPdYvY86DcDm15vyAHKwoNez81HK1fViR9\nhu2XvCr7yXc0pTCFV5l45LnVMZUI2AmNqXZjGmaSaZYF/AQa/qh8cY47qYKEeoNR\nLCm2pyP4uwMxAlRJE3EP3QpOdiqqCEQAYiXolx0rS7o+xKJR664Agr6XCBKQotms\nJ22FLUvBVQKBgQDf6d46oU5zhvF6l9YvONofdmXtoKUkCvWaWFcJ065fCDLcghX3\nUx78qv4pIP5DqoplkFQo+q8Icm0OImYTLd+gxXah1YMkTl+SkkRBLD1ayCDMY7BS\nw9clTZfUsVbvj4M2OBF/l4sv0m+h2U569jvcxpd1S1jZH7WSilVQQLpMPwKBgQC2\nXoOYLNqsd3ZfPtcd1gTZQw2WV+ZEV4puWo1EBKLYggrrWYdkwFPmhVKjChoUEy2a\nvWyXw96FOJIsIpVNUa2073H0Gpfkc3o6ghMNQLKLdYJhs8V6E8AhDNOBk7j/jZKR\nr7XZV/XJWKGZieuTDhYA1u5KAEupn66v+lz5ZI8inQKBgDtO64LenKJxE3EF0B4I\n06b18xFrIhirwMrm9BAMUg16JBCqWyzQ1kHym4lVIfmjjAvkjtJF75TyiCabfpI7\nrZyIwZpSso90zYiL7ufK5/H9pTWRnrbzbrcsMhySLUrk/JjF9riBGvXUCKP3P+OI\nyHZwjp6QiZxV0Zu3kzW5sFMd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@vidgrab-pro.iam.gserviceaccount.com",
+  "client_id": "110726367795923131044",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40vidgrab-pro.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
